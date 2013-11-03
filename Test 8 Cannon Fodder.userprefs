@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Monsters_Related\Scripts\FlyingMonster.cs">
+    <Files>
+      <File FileName="Assets\Monsters_Related\Scripts\FlyingMonster.cs" Line="69" Column="27" />
+      <File FileName="Assets\Cannon_Related\Scripts\WeaponControl.cs" Line="39" Column="4" />
+      <File FileName="Assets\Detonator Explosion Framework\System\Detonator.cs" Line="273" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
